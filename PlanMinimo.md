@@ -1,0 +1,42 @@
+# Plan Mínimo
+- Desarrollo de Software
+  - Fase 1
+    - Carrito Web [ER, GS, GG, RR]
+    - Comanda web (Movil) Restaurant [ER, RR]
+    - Cambios funcionales importantes VB6
+      - Factura Touch sin Agrupaciones [GS]
+      - Pedido Touch [GS]
+      - Apartados [GS, GG]
+      - Modo Light/Express (Analizar - 03/02/2023) [RR, *]
+      - Factura de Mostrador de Compras [RR, GS, GG]
+      - Recomposición en el Estado de Cuentas (Analizar - 03/02/2023) [*, RR]
+      - Gestión de documentos anulados [GG]
+  - Fase N
+    - Toma de Pedidos web/movil para vendedores
+    - LatisWeb
+    - Interface del Carrito con los productos de la competencia (saint, a2, Valery)
+    - Toma de inventario movil
+    - Delivery con terceros (Analizar) [*]
+    - Cambios funcionales importantes
+      - Preferencia Globales      
+      - Gestión/Copia de preferencias
+      - Manager de Producción
+- Documentación
+  - Fase 1
+    - Sitio web manual de usuario (hugo) publicar
+    - Sitio web manual de interno (hugo) publicar
+  - Fase N
+- Comercial
+  - Fase 1
+    - Instagram (Analizar) [ER, GS]
+    - Boletines (Analizar) [ER, GS]
+  - Fase N
+    - Demo de prueba para los clientes (Analizar)
+    - Agregar raviolis a la página Web
+    - Mantener los Clientes
+      - Percepción de sistema Complicado
+      - Encuesta a los clientes
+- Certificación
+  - Fase 1
+  - Fase N
+- Legales 
